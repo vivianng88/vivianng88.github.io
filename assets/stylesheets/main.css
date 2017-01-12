@@ -5,6 +5,7 @@
 p, a {
 	font-family: 'Architects Daughter', cursive;
 	font-size: 19px;
+	color: #FFFFFF;
 }
 
 h3 {
@@ -23,7 +24,7 @@ strong {
 }
 
 u {
-	color: #0000FF;
+	color: #80d4ff;
 }
 
 body {
@@ -39,6 +40,7 @@ body {
 .pageheader {
 	font-family: 'Chewy', cursive;
 	font-size: 50px;
+	color: #FFFFFF;
 }
 
 ul {
@@ -68,4 +70,10 @@ li a:hover {
 .dates {
 	font-size: 20px;
 	text-decoration: underline overline;
+}
+
+img {
+	border: 5px solid black;
+	padding: 5px;
+	background-color: #a3a3c2;
 }
