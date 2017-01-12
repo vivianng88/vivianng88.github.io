@@ -1,0 +1,71 @@
+* {
+	text-align: center;
+}
+
+p, a {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 19px;
+}
+
+h3 {
+	font-family: 'Architects Daughter', cursive;
+	font-weight: bolder;
+	font-size: 24px;
+	color: #FFB6C1;
+}
+
+em {
+	color: #7FFFD4;
+}
+
+strong {
+	color: #E6E6FA;
+}
+
+u {
+	color: #0000FF;
+}
+
+body {
+	margin: 0px 50px 100px 600px;
+	background: url(../images/cliff.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+#name {
+	color: #7FFFD4;
+}
+
+.pageheader {
+	font-family: 'Chewy', cursive;
+	font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+.dates {
+	font-size: 20px;
+	text-decoration: underline overline;
+}
